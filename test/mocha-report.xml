@@ -1,0 +1,7 @@
+<testsuites name="Mocha Unit Tests for Server">
+<testsuite name="Application Model application model #getApplicationById" tests="3" failures="0" skipped="0" timestamp="Mon, 26 Jun 2017 18:03:49 GMT" time="0.002">
+<testcase classname="Application Model application model #getApplicationById" name="null id" time="0"/>
+<testcase classname="Application Model application model #getApplicationById" name="invalid id" time="0"/>
+<testcase classname="Application Model application model #getApplicationById" name="valid id" time="0"/>
+</testsuite>
+</testsuites>
